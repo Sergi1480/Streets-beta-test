@@ -1,0 +1,21 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+sass --watch input.scss output.css
+
+body {
+
+  color: white;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  color: linear-gradient(to right, orange, red);
+}
+
+button{
+  background-image: linear-gradient(to right, orange, red)
+}
