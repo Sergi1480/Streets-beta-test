@@ -1,0 +1,17 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+
+body {
+ color: white;
+  background: black;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  color: linear-gradient(to right, orange, red);
+}
+
